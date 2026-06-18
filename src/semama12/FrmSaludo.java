@@ -15,7 +15,9 @@ public class FrmSaludo extends javax.swing.JFrame {
     public FrmSaludo() {
         initComponents();
       
-         jTextField1.requestFocus();
+         
+        
+        jTextField1.requestFocus();
          
         //Tamaño personalizado y posición centro.
         setSize(500,400);
